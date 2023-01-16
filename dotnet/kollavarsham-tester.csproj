@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="KollavarshamOrg.Converter" Version="2.4.12" />
+    <PackageReference Include="KollavarshamOrg.Converter" Version="2.5.0" />
   </ItemGroup>
 
 </Project>

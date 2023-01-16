@@ -7,6 +7,6 @@
   "author": "The Kollavarsham Team <info@kollavarsham.org>",
   "license": "MIT",
   "dependencies": {
-    "kollavarsham": "^2.4.12"
+    "kollavarsham": "^2.5.0"
   }
 }

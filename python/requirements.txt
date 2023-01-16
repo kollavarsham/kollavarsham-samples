@@ -1,2 +1,2 @@
-kollavarsham==2.4.12
+kollavarsham==2.5.0
 pytz==2022.7.1
