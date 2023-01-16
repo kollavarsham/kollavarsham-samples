@@ -1,0 +1,2 @@
+kollavarsham==2.4.12
+pytz==2022.7.1

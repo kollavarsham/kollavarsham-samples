@@ -1,0 +1,12 @@
+{
+  "name": "kollavarsham-tester",
+  "version": "1.0.0",
+  "description": "Testing",
+  "type": "module",
+  "bin": "tester.js",
+  "author": "The Kollavarsham Team <info@kollavarsham.org>",
+  "license": "MIT",
+  "dependencies": {
+    "kollavarsham": "^2.4.12"
+  }
+}
