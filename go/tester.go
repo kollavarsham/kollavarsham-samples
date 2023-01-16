@@ -21,5 +21,5 @@ func main() {
 	now := time.Now()
 	today := kv.FromGregorianDate(&now)
 
-	fmt.Printf("Today in Malayalam Year: %v %v %v (%v)\n", *today.Year(), *today.MlMasaName(), *today.Date(), *today.MlNaksatraName())
+	fmt.Printf("%v %v %v (%v)\n", *today.Year(), *today.MlMasaName(), *today.Date(), *today.MlNaksatraName())
 }
